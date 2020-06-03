@@ -1,6 +1,11 @@
 import cv2
 import numpy as np
 import pyzbar.pyzbar as pyzbar
+from tkinter import *
+
+root = Tk()
+root.title('Add Customer')
+root.geometry("400x400")
 
 
 
